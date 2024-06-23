@@ -6,8 +6,8 @@ Možda neki FER linkovi ne rade ispravno, ili vode na zastarjele stranice - u to
 [](#sadržaj)Sadržaj
 ===================
 
-*   [1\. Predmeti](https://github.com/studosi/FER#1-predmeti)
-*   [2\. Promjene](https://github.com/studosi/FER#2-promjene)
+*   [1\. Predmeti](https://github.com/studosi-fer#1-predmeti)
+*   [2\. Promjene](https://github.com/studosi-fer#2-promjene)
 
 [](#1-predmeti)1\. Predmeti
 ===========================
